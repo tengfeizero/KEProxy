@@ -1,0 +1,28 @@
+{
+  "name": "keproxy",
+  "version": "1.0.0",
+  "description": "the proxy between simple kibana and elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tengfeizero/KEProxy.git"
+  },
+  "keywords": [
+    "kibana",
+    "elasticsearch",
+    "proxy"
+  ],
+  "author": "ztf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tengfeizero/KEProxy/issues"
+  },
+  "homepage": "https://github.com/tengfeizero/KEProxy#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
