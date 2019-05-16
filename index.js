@@ -14,7 +14,7 @@ app.use('/', function (req, res) {
         'auth': {
             'user': http_basic_auth_user,
             'pass': http_basic_auth_pwd,
-            'sendImmediately': false
+            'sendImmediately': true
         }
     })).pipe(res);
 });
