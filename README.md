@@ -1,2 +1,2 @@
 # KEProxy
-the proxy between simple kibana and elasticsearch
+简单 Kibana 和 Elasticsearch 之间的代理
